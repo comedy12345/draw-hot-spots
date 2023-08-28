@@ -1,3 +1,10 @@
+<!--
+ * @Description: 文件描述
+ * @Author: ljf
+ * @Date: 2023-08-28 17:26:31
+ * @LastEditors: ljf
+ * @LastEditTime: 2023-08-28 17:39:29
+-->
 
 # 安装
 ```
@@ -37,6 +44,9 @@ Vue.use(DrawHotSpots);
 | unit  | 否 |String | 像素单位默认px|
 | defaultFontSize  | 否 |Number | 像素单位为rem时设置|
 
+## 最终上线效果
+
+![1693215551593](image/README/1693215551593.png)
 
 
 
