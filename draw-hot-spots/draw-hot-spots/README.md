@@ -3,7 +3,7 @@
  * @Author: ljf
  * @Date: 2023-08-28 17:26:31
  * @LastEditors: ljf
- * @LastEditTime: 2023-08-28 17:51:07
+ * @LastEditTime: 2023-08-28 17:52:21
 -->
 
 # 安装
@@ -46,8 +46,7 @@ Vue.use(DrawHotSpots);
 
 ## 最终上线效果
 
-![1693215551593](http://file.aikbao.com/20230828174414683)
-![](http://file.aikbao.com/20230828174953793)
+![1693215551593](http://file.aikbao.com/20230828174414683) ![](http://file.aikbao.com/20230828174953793)
 
 
 

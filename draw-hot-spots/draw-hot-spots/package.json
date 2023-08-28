@@ -1,6 +1,6 @@
 {
   "name": "draw-hot-spots",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "一个基于vue2的画热区工具",
   "main": "draw-hot-spots.common.js",
   "scripts": {
