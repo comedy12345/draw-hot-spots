@@ -38,3 +38,6 @@ Vue.use(DrawHotSpots);
 | defaultFontSize  | 否 |Number | 像素单位为rem时设置|
 
 
+
+
+

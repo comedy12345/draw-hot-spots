@@ -1,12 +1,12 @@
 {
   "name": "draw-hot-spots",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "``` npm i draw-hot-spots ``` # 注册 ```JS import DrawHotSpots from \"draw-hot-spots\";",
   "main": "draw-hot-spots.common.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["画热区","draw-hot-spots"],
+  "author": "ljf",
   "license": "ISC"
 }
